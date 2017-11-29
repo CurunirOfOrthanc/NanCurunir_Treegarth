@@ -1,0 +1,51 @@
+[20:40:11] [main/INFO]: Logging in with username & password
+[20:40:19] [main/INFO]: Setting user: CurunirOfOrthanc
+[20:40:28] [main/WARN]: Skipping bad option: lastServer:
+[20:40:28] [main/INFO]: LWJGL Version: 2.9.4
+[20:40:33] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tarr and Pheter Menu Mod
+[20:40:36] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:40:36] [Thread-4/INFO]: Initializing LWJGL OpenAL
+[20:40:36] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:40:36] [Thread-4/INFO]: OpenAL initialized.
+[20:40:37] [Sound Library Loader/INFO]: Sound engine started
+[20:40:42] [main/INFO]: Created: 512x512 textures-atlas
+[20:40:48] [main/WARN]: Skipping bad option: lastServer:
+[20:40:48] [main/INFO]: Narrator library successfully loaded
+[20:40:56] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[20:40:56] [Server thread/INFO]: Generating keypair
+[20:41:19] [Server thread/INFO]: Loaded 488 advancements
+[20:41:19] [Server thread/INFO]: Preparing start region for level 0
+[20:41:20] [Server thread/INFO]: Preparing spawn area: 0%
+[20:41:21] [Server thread/INFO]: Preparing spawn area: 31%
+[20:41:22] [Server thread/INFO]: Preparing spawn area: 80%
+[20:41:23] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:41:25] [Server thread/WARN]: Invalid statistic in ./saves/MenuTest/stats/6f488cec-cc62-4201-8200-5ae3db9ab77c.json: Don't know what stat.pickup.tnpmenu.tutorialitem is
+[20:41:25] [Server thread/WARN]: Invalid statistic in ./saves/MenuTest/stats/6f488cec-cc62-4201-8200-5ae3db9ab77c.json: Don't know what stat.drop.tnpmenu.tutorialitem is
+[20:41:25] [Server thread/INFO]: CurunirOfOrthanc[local:E:29075fea] logged in with entity id 381 at (-177.27027992153222, 64.0, 277.3277714852664)
+[20:41:25] [Server thread/INFO]: CurunirOfOrthanc joined the game
+[20:41:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3231ms behind, skipping 64 tick(s)
+[20:41:28] [Server thread/INFO]: Saving and pausing game...
+[20:41:28] [Server thread/INFO]: Saving chunks for level 'ModTest'/overworld
+[20:41:29] [Server thread/INFO]: Saving chunks for level 'ModTest'/the_nether
+[20:41:29] [Server thread/INFO]: Saving chunks for level 'ModTest'/the_end
+[20:41:29] [main/INFO]: Loaded 31 advancements
+[20:41:35] [Server thread/INFO]: Saving and pausing game...
+[20:41:35] [Server thread/INFO]: Saving chunks for level 'ModTest'/overworld
+[20:41:35] [Server thread/INFO]: Saving chunks for level 'ModTest'/the_nether
+[20:41:35] [Server thread/INFO]: Saving chunks for level 'ModTest'/the_end
+[20:41:44] [main/INFO]: Using default channel type
+[20:41:44] [main/INFO]: Started on 44246
+[20:41:44] [main/INFO]: [CHAT] Local game hosted on port 44246
+[20:42:49] [main/INFO]: Loaded 34 advancements
+[20:44:21] [Server thread/INFO]: CurunirOfOrthanc lost connection: Disconnected
+[20:44:21] [Server thread/INFO]: CurunirOfOrthanc left the game
+[20:44:21] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:44:22] [Server thread/INFO]: Stopping server
+[20:44:22] [Server thread/INFO]: Saving players
+[20:44:22] [Server thread/INFO]: Saving worlds
+[20:44:22] [Server thread/INFO]: Saving chunks for level 'ModTest'/overworld
+[20:44:22] [Server thread/INFO]: Saving chunks for level 'ModTest'/the_nether
+[20:44:22] [Server thread/INFO]: Saving chunks for level 'ModTest'/the_end
+[20:44:25] [main/INFO]: Stopping!
+[20:44:25] [main/INFO]: SoundSystem shutting down...
+[20:44:25] [main/WARN]: Author: Paul Lamb, www.paulscode.com

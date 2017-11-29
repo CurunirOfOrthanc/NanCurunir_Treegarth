@@ -1,0 +1,19 @@
+{ 
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "A A",
+    "AAA"  ],
+  "key": {
+    "A": [
+      {
+        "item": "minecraft:wheat",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "treegarth:largepizzadough",
+    "data": 0
+  }
+}

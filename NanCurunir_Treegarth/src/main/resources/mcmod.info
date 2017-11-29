@@ -1,0 +1,16 @@
+[
+{
+	"modid": "treegarth",
+	"name": "Curunir's Treegarth Mod",
+	"description": "Additional crops, recipes and food items",
+	"version": "0.0.1",
+	"mcversion": "${mcversion}",
+	"url": "",
+	"updateUrl": "",
+	"authorList": ["CurunirOfOrthanc"],
+	"credits": "Multiple online tutorials and Forge docs",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": []
+}
+]

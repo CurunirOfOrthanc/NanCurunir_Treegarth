@@ -1,0 +1,25 @@
+{ 
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "BBB",
+    " A "  ],
+  "key": {
+    "A": [
+      {
+        "item": "treegarth:largepizzadough",
+        "data": 0
+      }
+    ],
+    "B": [
+      {
+        "item": "treegarth:cheesewedge",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "treegarth:rawlargecheesepizza",
+    "data": 0
+  }
+}
